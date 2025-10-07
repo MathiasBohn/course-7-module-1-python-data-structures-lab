@@ -17,5 +17,4 @@ def display_students(student_list):
         # Call format_student_data to get formatted string
         formatted_student = format_student_data(student)
 
-        # Print formatted string
         print(formatted_student)
